@@ -2,7 +2,7 @@ StoneLight 				- E0E0E0
 StoneDark 				- 8F8F8F
 WoodLight 				- BE8959
 WoodDark				- 7C572D
-Filler (Black) 				- 373737
+Filler (Black) 				- 373737 (Diffuse Intensity - 0.3)(Specular Intensity - 0)
 RoofingTileLightBackground		- E79B66
 RoofingTileDark				- C44C33
 HouseWallBackground (Beige)		- F0E3A2
